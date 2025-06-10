@@ -4,6 +4,9 @@
 3. https://www.shadcn-svelte-extras.com/
 4. https://ui.kampsy.xyz/
 5. https://www.skeleton.dev/
+6. https://www.melt-ui.com/
+7. https://bits-ui.com/
+   
        
 # Animation
 1. https://aceternity.sveltekit.io/ for archival
