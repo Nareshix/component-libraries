@@ -1,11 +1,6 @@
 # Shadcn-based Components
 1. https://www.shadcn-svelte.com/ 
-2. https://geist.shyakadavis.me/
-3. https://www.shadcn-svelte-extras.com/
-4. https://ui.kampsy.xyz/
-5. https://www.skeleton.dev/
-6. https://www.melt-ui.com/
-7. https://bits-ui.com/
+2. https://www.shadcn-svelte-extras.com/
    
        
 # Animation
