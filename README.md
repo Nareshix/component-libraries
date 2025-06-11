@@ -8,3 +8,4 @@
 # Others
 3. https://github.com/Zxce3/shadcn-sveltekit-landing-page (landing page)
 4. https://github.com/SikandarJODD/startup-template (another landing page :D)
+5. https://ui.aceternity.com/ (animation ideas)
